@@ -1,4 +1,4 @@
-# DMA Course 2026
+Get-Content $HOME\.ssh\config# DMA Course 2026
 
 Repository cá nhân dùng để lưu trữ bài tập và sản phẩm học tập trong khóa **DMA Course 2026**.
 
