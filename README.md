@@ -20,7 +20,7 @@ Danh sách học viên cập nhật phục vụ công tác tổ chức và quả
 | HV12 | Nguyễn Trung Thành | Kỹ sư ô tô |  |  |  |
 | HV13 | Đinh Vĩnh Anh | DE |  |  |  |
 | HV14 | Lê Đức Anh | Sinh viên đại học |  |  |  |
-| HV15 | Nguyễn Thị Thùy Dương |  |  |  |  |
+| HV15 | Nguyễn Thị Thùy Dương |  |1986  |  |  |
 | HV16 | Đào Duy Anh | Sinh viên đại học |  |  |  |
 | HV17 | Trịnh Quang Anh | Sinh viên đại học |  |  |  |
 
