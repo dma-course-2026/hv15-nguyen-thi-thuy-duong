@@ -21,7 +21,7 @@ Danh sách học viên cập nhật phục vụ công tác tổ chức và quả
 | HV13 | Đinh Vĩnh Anh | DE |  |  |  |
 | HV14 | Lê Đức Anh | Sinh viên đại học |  |  |  |
 | HV15 | Nguyễn Thị Thùy Dương |  |1986  |  |  |
-| HV16 | Đào Duy Anh | Sinh viên đại học |  |  |  |
+| HV16 | Đào Duy Anh | Sinh viên đại học |2008 |  |  |
 | HV17 | Trịnh Quang Anh | Sinh viên đại học |  |  |  |
 
 ## Ghi chú
